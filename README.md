@@ -1,4 +1,4 @@
-test
+
 # PAG homepage
 
 The website is generated using a static site generator [hugo](https://gohugo.io/) and the [hextra theme](https://imfing.github.io/hextra/).
