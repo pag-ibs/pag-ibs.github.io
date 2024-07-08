@@ -21,6 +21,7 @@ toc: false
   {{< membercard name="Hyeon Ju Kang" image="/images/people/hjkang.jpg" role="Student Intern (Yonsei Univ.)" mail="myjju0318@yonsei.ac.kr">}}
   {{< membercard name="Changmin Lee" image="/images/people/clee.jpg" role="Student Intern (KAU)" mail="changmin3702@kau.kr">}}
   {{< membercard name="Chanhee Jung" image="/images/people/cjung.jpg" role="Student Intern (KAU)" mail="chanhee1126@kau.kr">}}
+  {{< membercard name="Seongbong Han" image="/images/people/shan.jpg" role="Student Intern (Yonsei Univ.)" mail="genesis11@yonsei.ac.kr">}}
 {{< /cards >}}
 
 ## Staff
