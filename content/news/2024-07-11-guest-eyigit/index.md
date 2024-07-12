@@ -7,4 +7,4 @@ Prof. Erdal Yigit (George Mason University) visited PAG and introduced his ongoi
 
 Prof. Yigit discussed the role of gravity waves in the dynamics of planetary atmospheres, their thermal effects, as well as the implications of dust storms and gravity waves for the atmospheric escape.
 
-![eyigit_image](seminar_jully11_1.jpg)
+![eyigit_image](seminar_july11_1.jpg)
