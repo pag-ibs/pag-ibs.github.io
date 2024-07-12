@@ -14,9 +14,9 @@ toc: false
   {{< membercard name="Evgenij S. Zubko" image="/images/people/ezubko.jpg" role="Senior Researcher" mail="zubko@ibs.re.kr" >}}
   {{< membercard name="Semyeong Oh" image="/images/people/soh.jpg" role="Senior Researcher" mail="soh@ibs.re.kr" >}}
   {{< membercard name="Jose Eduardo Oliveira Silva" image="/images/people/jsilva.jpg" role="Postdoctoral Researcher" mail="josesilva@ibs.re.kr">}}
-  {{< membercard name="Ashimananda Modak" image="/images/people/amodak.jpg" role="Postdoctoral Researcher">}}
-  {{< membercard name="Rommy L. S. E. Aliste Castillo" image="/images/people/raliste.jpg" role="Postdoctoral Researcher">}}
-  {{< membercard name="Minbae Kim" image="/images/people/mkim.jpg" role="Postdoctoral Researcher">}}
+  {{< membercard name="Ashimananda Modak" image="/images/people/amodak.jpg" role="Postdoctoral Researcher" mail="ashimananda108@ibs.re.kr">}}
+  {{< membercard name="Rommy L. S. E. Aliste Castillo" image="/images/people/raliste.jpg" role="Postdoctoral Researcher" mail="rommy25@ibs.re.kr">}}
+  {{< membercard name="Minbae Kim" image="/images/people/mkim.jpg" role="Postdoctoral Researcher" mail="mbkim67@ibs.re.kr">}}
   {{< membercard name="Zizung Yoon" image="/images/people/zyoon.jpg" role="Visiting research fellow (KAU)" mail="z.yoon@kau.ac.kr">}}
   {{< membercard name="Hyeon Ju Kang" image="/images/people/hjkang.jpg" role="Student Intern (Yonsei Univ.)" mail="myjju0318@yonsei.ac.kr">}}
   {{< membercard name="Changmin Lee" image="/images/people/clee.jpg" role="Student Intern (KAU)" mail="changmin3702@kau.kr">}}
