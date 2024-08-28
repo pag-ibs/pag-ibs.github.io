@@ -1,5 +1,5 @@
 ---
-title: Seminar at PAG - Presentation of PAG's Internship Dtudents
+title: Seminar at PAG - Presentation of PAG's Internship Students
 date: 2024-08-27
 ---
 
