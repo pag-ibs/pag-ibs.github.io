@@ -1,6 +1,7 @@
 ---
-title: "2025-1 Winter Internship at PAG/IBS in Daejeon"
+title: 2025 Winter Internship at PAG/IBS in Daejeon
 date: 2024-10-29
+deadline: 2024-11-22
 ---
 
 ### We welcome students to explore planetary atmospheric research activities with PAG’s members.
