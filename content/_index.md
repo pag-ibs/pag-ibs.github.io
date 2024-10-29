@@ -5,7 +5,7 @@ toc: false
 
 
 {{< callout type="info" >}}
-  2025 Winter Internship Opportunity [here](https://pag-ibs.github.io/news/2024-10-29-winter-internship/)
+  2025 Winter Internship Opportunity [here](https://pag-ibs.github.io/jobs/2025-winter-internship/)
 {{< /callout >}}
 
 <!-- {{< callout type="important" >}}
