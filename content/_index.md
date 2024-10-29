@@ -5,16 +5,16 @@ toc: false
 
 
 {{< callout type="info" >}}
-  Looking for 2024 Planetary Science and Space Exploration (PSSE) conference? Click [here](https://ibs.re.kr/psse2024)!
+  2025 Winter Internship Opportunity [here](https://pag-ibs.github.io/news/2024-10-29-winter-internship/)
 {{< /callout >}}
 
 <!-- {{< callout type="important" >}}
 #  2024 Summer Internship - Application Deadline: May 20th [Link](https://pag-ibs.github.io/jobs/2024-summer-internship/)
 # {{< /callout >}} -->
 
-{{< callout type="important" >}}
+<!-- {{< callout type="important" >}}
 2024 Research Positions - Application Deadline: August 26th ([Link](https://pag-ibs.github.io/jobs/2024-research-position/))
-{{< /callout >}}
+{{< /callout >}} -->
 
 ![](/images/main/2024_design_PAG.png)
 
