@@ -3,10 +3,11 @@ title: Planetary Atmospheres Group at the Institute for Basic Science
 toc: false
 ---
 
-
+<!--
 {{< callout type="info" >}}
   2025 Winter Internship Opportunity [here](https://pag-ibs.github.io/jobs/2025-winter-internship/)
 {{< /callout >}}
+-->
 
 <!-- {{< callout type="important" >}}
 #  2024 Summer Internship - Application Deadline: May 20th [Link](https://pag-ibs.github.io/jobs/2024-summer-internship/)
