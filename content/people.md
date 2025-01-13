@@ -12,8 +12,7 @@ toc: false
 {{< cards rows="6" >}}
   {{< membercard name="Yeon Joo Lee" image="/images/people/yjlee2.jpg" role="Chief Investigator" mail="yeonjoolee@ibs.re.kr" homepage="https://yjncv.wordpress.com/">}}
   {{< membercard name="Evgenij S. Zubko" image="/images/people/ezubko.jpg" role="Senior Researcher" mail="zubko@ibs.re.kr" >}}
-  {{< membercard name="Semyeong Oh" image="/images/people/soh.jpg" role="Senior Researcher" mail="soh@ibs.re.kr" >}}
-  {{< membercard name="Jose Eduardo Oliveira Silva" image="/images/people/jsilva.jpg" role="Postdoctoral Researcher" mail="josesilva@ibs.re.kr">}}
+  {{< membercard name="Semyeong Oh" image="/images/people/soh.jpg" role="Senior Researcher" mail="soh@ibs.re.kr" >}}  
   {{< membercard name="Ashimananda Modak" image="/images/people/amodak.jpg" role="Postdoctoral Researcher" mail="ashimananda108@ibs.re.kr">}}
   {{< membercard name="Rommy L. S. E. Aliste Castillo" image="/images/people/raliste.jpg" role="Postdoctoral Researcher" mail="rommy25@ibs.re.kr">}}
   {{< membercard name="Minbae Kim" image="/images/people/mkim.jpg" role="Research Technician" mail="mbkim67@ibs.re.kr">}}
@@ -38,4 +37,5 @@ toc: false
   {{< membercard name="Siwoo Jung" image="/images/people/swjung.jpg" role="Student Intern (Kyung Hee Univ.)" mail="siwoo144_1@khu.ac.kr" >}}
   {{< membercard name="Sae Eun Chun" image="https://picsum.photos/200/302" role="Student Intern (Kyung Hee Univ.)" mail="lucy069052@khu.ac.kr" >}}
   {{< membercard name="Seongbong Han" image="/images/people/shan.jpg" role="Student Intern (Yonsei Univ.)" mail="genesis11@yonsei.ac.kr">}}
+  {{< membercard name="Jose Eduardo Oliveira Silva" image="/images/people/jsilva.jpg" role="Postdoctoral Researcher" mail="josesilva@ibs.re.kr">}}
 {{< /cards >}}
