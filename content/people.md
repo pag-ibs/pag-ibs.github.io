@@ -20,6 +20,10 @@ toc: false
   {{< membercard name="Hyeon Ju Kang" image="/images/people/hjkang.jpg" role="Student Intern (Yonsei Univ.)" mail="myjju0318@yonsei.ac.kr">}}
   {{< membercard name="Changmin Lee" image="/images/people/clee.jpg" role="Student Intern (KAU)" mail="changmin3702@kau.kr">}}
   {{< membercard name="Chanhee Jung" image="/images/people/cjung.jpg" role="Student Intern (KAU)" mail="chanhee1126@kau.kr">}}
+  {{< membercard name="Taeho Kim" image="/images/people/tkim.jpg" role="Student Intern (KAIST)" mail="astronomy0728@kaist.ac.kr" >}}
+  {{< membercard name="Dongho You" image="/images/people/dongho_you.jpg" role="Student Intern (KAIST)" mail="youdongho@yonsei.ac.kr">}}
+  {{< membercard name="Jeongha Shin" image="/images/people/jeongha_shin.jpg" role="Student Intern (Yonsei Univ. )" mail="jhs@yonsei.ac.kr">}}
+  {{< membercard name="Ilsik Choi" image="/images/people/ilsik_choi.jpg" role="Student Intern (Yonsei Univ.)" mail="eclipse1@yonsei.ac.kr">}}
 {{< /cards >}}
 
 ## Staff
@@ -33,7 +37,6 @@ toc: false
 
 {{< cards rows="6" >}}
   {{< membercard name="Jun Seong Kim" image="/images/people/jkim.jpg" role="Student Intern (KAIST)" mail="09jkim@kaist.ac.kr" >}}
-  {{< membercard name="Taeho Kim" image="/images/people/tkim.jpg" role="Student Intern (KAIST)" mail="astronomy0728@kaist.ac.kr" >}}
   {{< membercard name="Siwoo Jung" image="/images/people/swjung.jpg" role="Student Intern (Kyung Hee Univ.)" mail="siwoo144_1@khu.ac.kr" >}}
   {{< membercard name="Sae Eun Chun" image="https://picsum.photos/200/302" role="Student Intern (Kyung Hee Univ.)" mail="lucy069052@khu.ac.kr" >}}
   {{< membercard name="Seongbong Han" image="/images/people/shan.jpg" role="Student Intern (Yonsei Univ.)" mail="genesis11@yonsei.ac.kr">}}
