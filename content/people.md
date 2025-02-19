@@ -24,6 +24,7 @@ toc: false
   {{< membercard name="Dongho You" image="/images/people/dongho_you.jpg" role="Student Intern (KAIST)" mail="youdongho@yonsei.ac.kr">}}
   {{< membercard name="Jeongha Shin" image="/images/people/jeongha_shin.jpg" role="Student Intern (Yonsei Univ. )" mail="jhs@yonsei.ac.kr">}}
   {{< membercard name="Ilsik Choi" image="/images/people/ilsik_choi.jpg" role="Student Intern (Yonsei Univ.)" mail="eclipse1@yonsei.ac.kr">}}
+  {{< membercard name="Ilsik Choi" image="/images/people/yumin_kim.jpg" role="Student Intern (Yonsei Univ.)" mail="rladbals67@yonsei.ac.kr">}}
 {{< /cards >}}
 
 ## Staff
