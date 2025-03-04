@@ -10,5 +10,8 @@ robot in an unknown challenging environment such as Mars.
 Dr. Hyo-Sang Shin is a professor at Autonomous and intelligent System Lab, KAIST who visited PAG on 25th Feb. 2025.
 Professor Hyo-Sang Shin, received an MSc on flight dynamics, guidance and control in Aerospace Engineering from KAIST and gained a PhD on cooperative missile guidance from Cranfield University. He is a Lecturer on Guidance, Control and Navigation Systems in Autonomous and Intelligent Systems Group at Cranfield University since 2010. He participated in the 3rd Korea Robot Aircraft Competition with Team Highest winning the Silver (2004) and Most Popular Team award (2004). 
 
-![hyosangshin_image](hyo-sang-shin.jpg)
+![hyosangshin_image][def]
 
+
+
+[def]: hyo-sang-shin.jpg
