@@ -7,7 +7,9 @@ During his visit he delivered a seminar on understanding the lower atmosphere of
 deep venusian atmosphere which can be confirmed with the future Venus missions.
 
 
+
 ![sebastian_image][def]
+
 
 
 
