@@ -1,5 +1,5 @@
 ---
-title: Some elements to understand the deep atmosphere of Venus
+title: Seminar at PAG: Some elements to understand the deep atmosphere of Venus
 date: 2025-04-22
 ---
 Dr. Sébastien Lebonnois of Sorbonne Université, France is visiting us for the duration between 13th April and 10th May. 
