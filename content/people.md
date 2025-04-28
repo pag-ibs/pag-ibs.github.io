@@ -43,3 +43,9 @@ toc: false
   {{< membercard name="Seongbong Han" image="/images/people/shan.jpg" role="Student Intern (Yonsei Univ.)" mail="genesis11@yonsei.ac.kr">}}
   {{< membercard name="Jose Eduardo Oliveira Silva" image="/images/people/jsilva.jpg" role="Postdoctoral Researcher" mail="josesilva@ibs.re.kr">}}
 {{< /cards >}}
+
+## Visitors
+
+{{< cards rows="6" >}}
+  {{< membercard name="Sébastien Lebonnois" image="/images/people/sebastian.jpg" role="Visiting Researcher" mail="sebastien.lebonnois@lmd.ipsl.fr">}}
+{{< /cards >}}
