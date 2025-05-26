@@ -47,6 +47,6 @@ toc: false
 ## Visitors
 
 {{< cards rows="6" >}}
-  {{< membercard name="Sébastien Lebonnois" image="/images/people/sebastian.jpg" role="Visiting Researcher" mail="sebastien.lebonnois@lmd.ipsl.fr">}}
-  {{< membercard name="Minjae G. Kim" image="/images/people/minjae_G_kim.jpg" role="Visiting Researcher" mail="sebastien.lebonnois@lmd.ipsl.fr">}}
+  {{< membercard name="Sébastien Lebonnois" image="/images/people/sebastian.jpg" role="Visiting Researcher  (2024/04/13 - 2024/05/10)" mail="sebastien.lebonnois@lmd.ipsl.fr">}}
+  {{< membercard name="Minjae G. Kim" image="/images/people/minjae_G_kim.jpg" role="Visiting Researcher  (2024/05/13-2024/05/23)" mail="minjae.gaspar.kim@gmail.com">}}
 {{< /cards >}}
