@@ -27,7 +27,6 @@ toc: false
 
 {{< cards rows="6" >}}
   {{< membercard name="Jieun Shin" image="/images/people/jshin.jpg" role="Staff" mail="sje@ibs.re.kr">}}
-  {{< membercard name="Jiyeon Yeo" image="/images/people/jyeo.jpg" role="Staff" mail="jyyeo@ibs.re.kr">}}
 {{< /cards >}}
 
 ## Alumni
