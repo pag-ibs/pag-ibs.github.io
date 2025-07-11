@@ -19,13 +19,13 @@ toc: false
 
 ## Collaboration
 
-[Co-I, UVI/Akatsuki](https://www.isas.jaxa.jp/en/missions/spacecraft/current/akatsuki.html)
+[JAXA/Akatsuki/UVI](https://www.isas.jaxa.jp/en/missions/spacecraft/current/akatsuki.html)
 ![Akatsuki](akatsuki_s.png)
 
-[Guest Investigator, BepiColombo](https://sci.esa.int/web/bepicolombo)
+[ESA-JAXA/BepiColombo](https://sci.esa.int/web/bepicolombo)
 ![BepiColombo](ESA-JAXA_Bepi_s.png)
 
 [Venus Science Coordination Group (VeSCoor)](https://www.cosmos.esa.int/web/envision/vescoor-page)
 
-[Co-I, VenSpec-Suite/EnVision](https://www.cosmos.esa.int/web/envision)
+[ESA/EnVision/VenSpec-Suite](https://www.cosmos.esa.int/web/envision)
 ![EnVision](ESA_EnVision_temp_s.png)
