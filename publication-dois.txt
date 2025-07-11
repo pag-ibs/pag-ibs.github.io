@@ -1,4 +1,11 @@
 # prepend dois or doi urls to this file
+https://doi.org/10.1029/2024JE008775
+https://doi.org/10.1016/j.jqsrt.2025.109522
+https://doi.org/10.1051/0004-6361/202553905
+https://doi.org/10.3847/1538-3881/adbd42
+https://doi.org/10.1029/2024JH000306
+https://doi.org/10.1051/0004-6361/202449145
+https://doi.org/10.1016/j.jqsrt.2024.109053
 10.1016/j.asr.2024.12.029
 10.1029/2024AV001389
 10.1016/j.icarus.2024.116076
