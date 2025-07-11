@@ -18,12 +18,9 @@ toc: false
   {{< membercard name="Zizung Yoon" image="/images/people/zyoon.jpg" role="Visiting research fellow (KAU)" mail="z.yoon@kau.ac.kr">}}
   {{< membercard name="Hyeon Ju Kang" image="/images/people/hjkang.jpg" role="Student Intern (Yonsei Univ.)" mail="myjju0318@yonsei.ac.kr">}}
   {{< membercard name="Changmin Lee" image="/images/people/clee.jpg" role="Student Intern (KAU)" mail="changmin3702@kau.kr">}}
-  {{< membercard name="Chanhee Jung" image="/images/people/cjung.jpg" role="Student Intern (KAU)" mail="chanhee1126@kau.kr">}}
   {{< membercard name="Taeho Kim" image="/images/people/tkim.jpg" role="Student Intern (KAIST)" mail="astronomy0728@kaist.ac.kr" >}}
   {{< membercard name="Dongho You" image="/images/people/dongho_you.jpg" role="Student Intern (KAIST)" mail="youdongho@yonsei.ac.kr">}}
   {{< membercard name="Jeongha Shin" image="/images/people/jeongha_shin.jpg" role="Student Intern (Yonsei Univ. )" mail="jhs@yonsei.ac.kr">}}
-  {{< membercard name="Ilsik Choi" image="/images/people/ilsik_choi.jpg" role="Student Intern (Yonsei Univ.)" mail="eclipse1@yonsei.ac.kr">}}
-  {{< membercard name="Yumin Kim" image="/images/people/yumin_kim.jpg" role="Student Intern (Yonsei Univ.)" mail="rladbals67@yonsei.ac.kr">}}
 {{< /cards >}}
 
 ## Staff
@@ -42,6 +39,9 @@ toc: false
   {{< membercard name="Seongbong Han" image="/images/people/shan.jpg" role="Student Intern (Yonsei Univ.)" mail="genesis11@yonsei.ac.kr">}}
   {{< membercard name="Jose Eduardo Oliveira Silva" image="/images/people/jsilva.jpg" role="Postdoctoral Researcher" mail="josesilva@ibs.re.kr">}}
   {{< membercard name="Evgenij S. Zubko" image="/images/people/ezubko.jpg" role="Senior Researcher" mail="zubko@ibs.re.kr" >}}
+  {{< membercard name="Chanhee Jung" image="/images/people/cjung.jpg" role="Student Intern (KAU)" mail="chanhee1126@kau.kr">}}
+  {{< membercard name="Ilsik Choi" image="/images/people/ilsik_choi.jpg" role="Student Intern (Yonsei Univ.)" mail="eclipse1@yonsei.ac.kr">}}
+  {{< membercard name="Yumin Kim" image="/images/people/yumin_kim.jpg" role="Student Intern (Yonsei Univ.)" mail="rladbals67@yonsei.ac.kr">}}
 {{< /cards >}}
 
 ## Visitors
