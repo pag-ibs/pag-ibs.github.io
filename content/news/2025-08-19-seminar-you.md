@@ -1,6 +1,6 @@
 ---
 date: "2025-08-19"
-title: "Theoretical Transmission Spectra during Extrasolar Giant Planet Transits"
+title: "Seminar: Theoretical Transmission Spectra during Extrasolar Giant Planet Transits"
 ---
 
 
