@@ -28,6 +28,11 @@ In update-pubs.py, we query crossref.org API for info and write them as list to 
 make pubs
 ```
 
+You may need to update as
+```sh
+python -m pip install --upgrade pip
+```
+
 If the doi is not found, it will give an error so that you can fix it:
 
 ```sh
