@@ -12,7 +12,6 @@ toc: false
 {{< cards rows="6" >}}
   {{< membercard name="Yeon Joo Lee" image="/images/people/yjlee2.jpg" role="Chief Investigator" mail="yeonjoolee@ibs.re.kr" homepage="https://yjncv.wordpress.com/">}}
   {{< membercard name="Semyeong Oh" image="/images/people/soh.jpg" role="Senior Researcher" mail="soh@ibs.re.kr" >}}  
-  {{< membercard name="Ashimananda Modak" image="/images/people/amodak.jpg" role="Postdoctoral Researcher" mail="ashimananda108@ibs.re.kr">}}
   {{< membercard name="Rommy L. S. E. Aliste Castillo" image="/images/people/raliste.jpg" role="Postdoctoral Researcher" mail="rommy25@ibs.re.kr">}}
   {{< membercard name="Minbae Kim" image="/images/people/mkim.jpg" role="Research Technician" mail="mbkim67@ibs.re.kr">}}
   {{< membercard name="Zizung Yoon" image="/images/people/zyoon.jpg" role="Visiting research fellow (KAU)" mail="z.yoon@kau.ac.kr">}}
@@ -26,6 +25,7 @@ toc: false
 ## Staff
 
 {{< cards rows="6" >}}
+  {{< membercard name="Sunmi Lee" image="/images/people/sunmi.jpg" role="Staff" mail="sm5004@ibs.re.kr">}}
   {{< membercard name="Jieun Shin" image="/images/people/jshin.jpg" role="Staff" mail="sje@ibs.re.kr">}}
 {{< /cards >}}
 
@@ -41,6 +41,7 @@ toc: false
   {{< membercard name="Chanhee Jung" image="/images/people/cjung.jpg" role="Student Intern (KAU) (2024)">}}
   {{< membercard name="Ilsik Choi" image="/images/people/ilsik_choi.jpg" role="Student Intern (Yonsei Univ.) (2025 Winter)">}}
   {{< membercard name="Yumin Kim" image="/images/people/yumin_kim.jpg" role="Student Intern (Yonsei Univ.) (2025 Winter)">}}
+  {{< membercard name="Ashimananda Modak" image="/images/people/amodak.jpg" role="Researcher (2023 Aug-2025 Aug)">}}
 {{< /cards >}}
 
 ## Visitors
