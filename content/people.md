@@ -11,7 +11,7 @@ toc: false
 
 {{< cards rows="6" >}}
   {{< membercard name="Yeon Joo Lee" image="/images/people/yjlee2.jpg" role="Chief Investigator" mail="yeonjoolee@ibs.re.kr" homepage="https://yjncv.wordpress.com/">}}
-  {{< membercard name="Semyeong Oh" image="/images/people/soh.jpg" role="Senior Researcher" mail="soh@ibs.re.kr" >}}  
+  {{< membercard name="Semyeong Oh" image="/images/placeholder.jpg" role="Senior Researcher" mail="soh@ibs.re.kr" >}}  
   {{< membercard name="Rommy L. S. E. Aliste Castillo" image="/images/people/raliste.jpg" role="Postdoctoral Researcher" mail="rommy25@ibs.re.kr">}}
   {{< membercard name="Minbae Kim" image="/images/people/mkim.jpg" role="Research Technician" mail="mbkim67@ibs.re.kr">}}
   {{< membercard name="Zizung Yoon" image="/images/people/zyoon.jpg" role="Visiting research fellow (KAU)" mail="z.yoon@kau.ac.kr">}}
