@@ -21,7 +21,7 @@ toc: false
   {{< membercard name="Taeho Kim" image="/images/people/tkim.jpg" role="Student Intern (KAIST)" mail="astronomy0728@kaist.ac.kr" >}}
   {{< membercard name="Dongho You" image="/images/people/dongho_you.jpg" role="Student Intern (KAIST)" mail="youdongho@yonsei.ac.kr">}}
   {{< membercard name="Jeongha Shin" image="/images/people/jeongha_shin.jpg" role="Student Intern (Yonsei Univ.)" mail="jhs@yonsei.ac.kr">}}
-  {{< membercard name="Lara De Carne" image="/images/people/ldecarne.jpg" role="Student Intern (Chieti-Pescara Univ.)" mail="laradecarne@hotmail.be">}}
+  {{< membercard name="Lara De Carne" image="/images/people/ldecarne.jpg" role="Student Intern (UdA Pescara)" mail="laradecarne@hotmail.be">}}
 {{< /cards >}}
 
 ## Staff
