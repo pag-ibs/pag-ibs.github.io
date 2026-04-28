@@ -1,7 +1,16 @@
 ---
 title: Publications
-date: 2025-10-02 03:22:54
+date: 2026-04-28 03:06:14
 ---
+- **Water Vapor Vertical Distribution on Mars After Six Years of TGO/NOMAD Solar Occultations: 1. Global Climatology**, Brines, A., López‐Valverde, M. A., Funke, B., González‐Galindo, F., Aoki, S., Thomas, I. R., Villanueva, G. L., Liuzzi, G., Erwin, J. T., Grabowski, U., Forget, F., Lopez‐Moreno, J. J., Rodriguez‐Gomez, J., Daerden, F., Trompet, L., Ristic, B., Patel, M. R., Holmes, J. A., Bellucci, G., Modak, A., Vandaele, A. C., [10.1029/2024je008916](https://doi.org/https://doi.org/10.1029/2024JE008916)
+- **Water Vapor Vertical Distribution on Mars After Six Years of TGO/NOMAD Solar Occultations: 2. Cross‐Validation Within TGO and Comparison With MPCM**, Brines, A., López‐Valverde, M. A., González‐Galindo, F., Aoki, S., Fedorova, A., Belyaev, D., Forget, F., Vos, E., Montmessin, F., Funke, B., Lopez‐Moreno, J. J., Rodriguez‐Gomez, J., Daerden, F., Thomas, I. R., Trompet, L., Modak, A., Villanueva, G. L., Patel, M. R., Bellucci, G., Vandaele, A. C., [10.1029/2025je009191](https://doi.org/https://doi.org/10.1029/2025JE009191)
+- **Long‐Term Variability of the Thermal Structure in Venus's Low‐Latitude Atmosphere Investigated Using Venus Express and Akatsuki Radio Occultations**, Ando, Hiroki, Noguchi, Katsuyuki, Imamura, Takeshi, Takagi, Masahiro, Sagawa, Hideo, Yamazaki, Atsushi, Oschlisniok, Janusz, Tellmann, Silvia, Pätzold, Martin, Häusler, Bernd, Lee, Yeon Joo, Choudhary, Raj Kumar, Antonita, Maria, [10.1029/2025je009218](https://doi.org/https://doi.org/10.1029/2025JE009218)
+- **Near-infrared [P 
+                    <scp>ii</scp>
+                    ] and [Fe 
+                    <scp>ii</scp>
+                    ] line mapping of Galactic supernova remnants**, Kokusho, Takuma, Katsurada, Yuki, Lee, Yong-Hyun, Koo, Bon-Chul, Nagayama, Takahiro, Kaneda, Hidehiro, Kawabata, Koji S, Nakaoka, Tatsuya, Lee, Ho-Gyu, Aliste Castillo, Rommy L S E, [10.1093/pasj/psaf135](https://doi.org/https://doi.org/10.1093/pasj/psaf135)
+- **Strong Variability of the Modeled Venus NO Nightglow**, Streel, N., Lefèvre, F., Martinez, A., Määttänen, A., Stolzenbach, A., Lebonnois, S., Gérard, J. C., Soret, L., [10.1029/2025je009316](https://doi.org/https://doi.org/10.1029/2025JE009316)
 - **Sulfur Dioxide Distribution at the Venusian Cloud‐Top Retrieved From Akatsuki UV Images**, Iwanaka, T., Imamura, T., Aoki, S., Marcq, E., Sagawa, H., Stolzenbach, A., Lee, Y. J., Yamazaki, A., [10.1029/2024je008775](https://doi.org/https://doi.org/10.1029/2024JE008775)
 - **Phenomenon of glory and constraints it places on microphysics of aerosols in the atmosphere of Venus**, Zubko, Evgenij, Lee, Yeon Joo, Yamazaki, Atsushi, [10.1016/j.jqsrt.2025.109522](https://doi.org/https://doi.org/10.1016/j.jqsrt.2025.109522)
 - **Context images for Venus Express radio occultation measurements: A search for a correlation between temperature structure and UV contrasts in the clouds of Venus**, Roos-Serote, M., Wilson, C. F., MacDonald, R. J., Tellmann, S., Lee, Y. J., Khatuntsev, I. V., [10.1051/0004-6361/202553905](https://doi.org/https://doi.org/10.1051/0004-6361/202553905)

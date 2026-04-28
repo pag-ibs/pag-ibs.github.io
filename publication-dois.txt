@@ -1,4 +1,9 @@
 # prepend dois or doi urls to this file
+https://doi.org/10.1029/2024JE008916
+https://doi.org/10.1029/2025JE009191
+https://doi.org/10.1029/2025JE009218
+https://doi.org/10.1093/pasj/psaf135
+https://doi.org/10.1029/2025JE009316
 https://doi.org/10.1029/2024JE008775
 https://doi.org/10.1016/j.jqsrt.2025.109522
 https://doi.org/10.1051/0004-6361/202553905
