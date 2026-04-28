@@ -29,5 +29,9 @@ toc: false
 
 [Venus Science Coordination Group (VeSCoor) (2023-current)](https://www.cosmos.esa.int/web/envision/vescoor-page)
 
+
+[ESA/EnVision/VenSpec-H Co-I (2021-2023)](https://www.cosmos.esa.int/web/envision)
+![EnVision](ESA_EnVision_temp_s.png)
+
 [ESA/EnVision/VenSpec-Suite Co-I (2023-current)](https://www.cosmos.esa.int/web/envision)
 ![EnVision](ESA_EnVision_temp_s.png)
