@@ -9,10 +9,6 @@ toc: false
 {{< /callout >}}
 -->
 
- {{< callout type="important" >}}
-#  PSSE2026 - Registration and abstract submission is open ([link](https://ibs.re.kr/IBS-KASA-KAIST/))
-# {{< /callout >}} 
-
 <!-- {{< callout type="important" >}}
 2024 Research Positions - Application Deadline: August 26th ([Link](https://pag-ibs.github.io/jobs/2024-research-position/))
 {{< /callout >}} -->
